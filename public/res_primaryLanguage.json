@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Dylan Cooper. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "Hello everyone, I'm Cooper, a creative software developer based in Fairbanks, AK. Using my background as an air traffic controller I specialize in creating accurate, and reliable software solutions. My strong suit is HTML, CSS, JavaScript, and Java. I enjoy making user-friendly and aesthetically pleasing interfaces that get out of the user's way. I'm currently seeking new opportunities where I can leverage my background and creative problem-solving skills. Feel free to reach out on LinkedIn for more information.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Murder Mystery",
+        "startDate": "2023",
+        "description": "Throughout the process of creating my murder mystery game, I gained valuable experience in game design, storytelling, and problem-solving. I honed skills in crafting a narrative, developing compelling characters, and designing interactive gameplay elements. This project allowed me to showcase my creativity, attention to detail, and ability to captivate an audience through interactive storytelling.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://jenniferaarondylan.github.io/MysteryGame/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -81,18 +81,18 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Federal Aviation Administration",
+        "title": "Air Traffic Controller",
+        "years": "06.2017 - present",
         "mainTech": [
           "Angular 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
+          "CSS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
+          "React",
           "EF Core",
           ".NET Core",
           "SignalR",
@@ -100,11 +100,11 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "U.S. Army",
+        "title": "Air Traffic Controller",
+        "years": "04.2010 - 04.2018",
         "mainTech": [
-          "Angular 7/8"
+          "National Airspace Software"
         ],
         "technologies": [
           "RxJS",

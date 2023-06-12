@@ -1,16 +1,16 @@
 {
     "basic_info": {
       "name": "Dylan Cooper",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer - Always learning, bit by bit" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Cooper-Softdev",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/dylan-cooper-400636212/",
           "class": "fab fa-instagram"
         }
       ],
