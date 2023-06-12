@@ -81,18 +81,18 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Federal Aviation Administration",
+        "title": "Air Traffic Controller",
+        "years": "06.2017 - present",
         "mainTech": [
           "Angular 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
+          "CSS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
+          "React",
           "EF Core",
           ".NET Core",
           "SignalR",
@@ -100,11 +100,11 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "U.S. Army",
+        "title": "Air Traffic Controller",
+        "years": "04.2010 - 04.2018",
         "mainTech": [
-          "Angular 7/8"
+          "National Airspace Software"
         ],
         "technologies": [
           "RxJS",
